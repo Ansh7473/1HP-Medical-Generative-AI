@@ -1,0 +1,15 @@
+langchain
+openai
+flask
+sentence-transformers
+pypdf
+python-dotenv
+langchain-pinecone
+langchain-openai           #openai
+langchain-huggingface
+langchain-community
+google-generativeai
+langchain-google-genai      # Gemini
+google-genai
+
+-e .
